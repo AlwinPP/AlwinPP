@@ -22,25 +22,25 @@ I'm a Mernstack developer, have recently completed a 5-month MERN  stack  develo
 
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aravind-b-dev&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravind-b-dev&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlwinPP&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlwinPP&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p> 
 
 
 
-<a href="https://github.com/aravind-b-dev"><img src="https://activity-graph.herokuapp.com/graph?username=aravind-b-dev&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="https://github.com/aravind-b-dev"><img src="https://activity-graph.herokuapp.com/graph?username=AlwinPP&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/aravind-b-dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aravind-b-dev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/aravind-b-dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AlwinPP&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<!-- <p align="center" style="position:relative"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aravind-b-dev&theme=onedark&row=1" alt="aravind-b-dev" /></a> </p> -->
+<!--- <p align="center" style="position:relative"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AlwinPP&theme=onedark&row=1" alt="AlwinPP" /></a> </p>--->
 
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Wordpress-informational?style=flat&logo=wordpress&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tool-Postman-informational?style=flat&logo=postman&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tool-Trello-informational?style=flat&logo=trello&logoColor=white&color=4AB197)
